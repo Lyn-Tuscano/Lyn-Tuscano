@@ -4,7 +4,7 @@
 ![Tech Stack](https://img.shields.io/badge/Skills-Python%2C%20SQL%2C%20PowerBI%2C%20Excel%2C%20Tableau-orange)
 ![Views](https://komarev.com/ghpvc/?username=Lyn-Tuscano&label=Profile%20Views&color=blueviolet)
 
-# 👩‍💻 Lyeen Tuscano – Data Analyst
+# 👩‍💻 Lyeen Tuscano
 
 📞 +91 7559180161  
 📧 [Lyeentuscano10@gmail.com](mailto:Lyeentuscano10@gmail.com)  
