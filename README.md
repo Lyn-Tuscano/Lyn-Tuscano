@@ -2,7 +2,6 @@
 ![Role](https://img.shields.io/badge/Role-Data%20Analyst-blue)
 ![Open to](https://img.shields.io/badge/Open%20To-Remote%20%7C%20Relocation-green)
 ![Tech Stack](https://img.shields.io/badge/Skills-Python%2C%20SQL%2C%20PowerBI%2C%20Excel%2C%20Tableau-orange)
-![Followers](https://img.shields.io/github/followers/Lyn-Tuscano?style=social)
 ![Views](https://komarev.com/ghpvc/?username=Lyn-Tuscano&label=Profile%20Views&color=blueviolet)
 
 # 👩‍💻 Lyeen Tuscano – Data Analyst
