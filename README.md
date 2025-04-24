@@ -1,8 +1,15 @@
+
+![Role](https://img.shields.io/badge/Role-Data%20Analyst-blue)
+![Open to](https://img.shields.io/badge/Open%20To-Remote%20%7C%20Relocation-green)
+![Tech Stack](https://img.shields.io/badge/Skills-Python%2C%20SQL%2C%20PowerBI%2C%20Excel%2C%20Tableau-orange)
+![Followers](https://img.shields.io/github/followers/Lyn-Tuscano?style=social)
+![Views](https://komarev.com/ghpvc/?username=Lyn-Tuscano&label=Profile%20Views&color=blueviolet)
+
 # 👩‍💻 Lyeen Tuscano – Data Analyst
 
 📞 +91 7559180161  
 📧 [Lyeentuscano10@gmail.com](mailto:Lyeentuscano10@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/lyeen-tuscano) | [GitHub](https://github.com/Lyn-Tuscano)  
+🔗 [LinkedIn](https://www.linkedin.com/in/lyeen-tuscano) | [GitHub](https://github.com/Lyn-Tuscano)
 
 ---
 
@@ -14,11 +21,36 @@ Data Analyst skilled in SQL, Python, and Excel, with expertise in data managemen
 
 ## 🛠️ Skills & Abilities
 
-**Languages**: Python, SQL, DAX  
-**Frameworks**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn  
-**Tools**: Power BI, Excel, PowerPoint, Tableau, MySQL, Confluence, Google Sheets  
-**Platforms**: Jupyter Notebook, Visual Studio Code, Snowflake, Salesforce  
-**Soft Skills**: Communication, Problem-solving, Teamwork, Accountability, Taking initiative, Requirements Analysis
+### 🧑‍💻 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-005C84?style=flat&logo=postgresql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-512BD4?style=flat&logo=powerbi&logoColor=white)
+
+### 📚 Frameworks & Libraries  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-004B87?style=flat)
+
+### 📊 Tools  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
+
+### 💻 Platforms  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9E9?style=flat&logo=snowflake&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
+
+### 🤝 Soft Skills  
+`Communication` • `Problem-solving` • `Teamwork` • `Accountability` • `Taking initiative` • `Requirements Analysis`
+
 
 ---
 
