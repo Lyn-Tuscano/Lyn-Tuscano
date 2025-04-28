@@ -42,8 +42,6 @@ Data Analyst skilled in SQL, Python, and Excel, with expertise in data managemen
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
 
 ### 💻 Platforms  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-56B9E9?style=flat&logo=snowflake&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
 
