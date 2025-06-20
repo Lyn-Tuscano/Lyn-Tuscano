@@ -6,7 +6,6 @@
 
 # 👩‍💻 Lyeen Tuscano
 
-📞 +91 7559180161  
 📧 [Lyeentuscano10@gmail.com](mailto:Lyeentuscano10@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/lyeen-tuscano) | [GitHub](https://github.com/Lyn-Tuscano)
 
